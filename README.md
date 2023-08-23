@@ -25,6 +25,10 @@ This guide is a step-by-step walkthrough on setting up, running, and managing AI
 * 🔧  QEMU software installed and configured on the host system.
 * 💿  IBM AIX installation ISO USB Version. Specifically, the version mentioned in the guide, *AIX_v7.2_Base_Install_7200-03-01-1838_USB_Flash_092018.iso*, or a compatible version.
 
+## Important Links
+- To download qemu-system-ppc64 : https://www.qemu.org/docs/master/system/target-ppc.html
+- To get 
+  
 ### Getting started
 --- 
 This section describes how to set up the IBM AIX system on a virtual machine.
@@ -156,4 +160,5 @@ qemu-system-ppc64 -cpu POWER9 \
 -prom-env "output-device=/vdevice/vty@71000000" \
 -prom-env boot-command='boot disk:'
 ```
-*Author : Youssef Sbai Idrissi*
+#### Authors
+Youssef Sbai Idrissi, Researcher
