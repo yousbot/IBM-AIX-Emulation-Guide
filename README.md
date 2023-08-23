@@ -18,7 +18,7 @@ Running IBM AIX on Intel Systems
 
 ## Requirements 
 ***Hardware***
-⚡ Intel-based system with virtualization capabilities (VT-x/VT-d) enabled.
+⚡️   Intel-based system with virtualization capabilities (VT-x/VT-d) enabled.
 🔍  RAM: A minimum of 8GB (16GB recommended).
 💾  At least 250GB of free disk space.
 
