@@ -2,8 +2,10 @@
 Running IBM AIX on Intel Systems
 </h1>
 
-> IBM AIX (Advanced Interactive eXecutive) is a series of proprietary Unix operating systems developed by IBM for several of > its computer platforms. This guide aims to bridge the gap between IBM's proprietary hardware systems and common > Intel-based systems, enabling developers, researchers, and enthusiasts to experience AIX without the need for specialized IBM hardware.
-> With the rapid advancement of virtualization technologies and the capabilities of QEMU, it is now possible to emulate > environments that were previously restricted to specific hardware setups. This guide is a step-by-step walkthrough on setting up, running, and managing AIX on QEMU, making it accessible to a broader audience.
+> IBM AIX (Advanced Interactive eXecutive) is a series of proprietary Unix operating systems developed by IBM for several of its computer platforms.
+> This guide aims to bridge the gap between IBM's proprietary hardware systems and common Intel-based systems, enabling developers, researchers, and enthusiasts to experience AIX without the need for specialized IBM hardware.
+> With the rapid advancement of virtualization technologies and the capabilities of QEMU, it is now possible to emulate environments that were previously restricted to specific hardware setups.
+> This guide is a step-by-step walkthrough on setting up, running, and managing AIX on QEMU, making it accessible to a broader audience.
 
 ## Goals of this Project
 - Demystify AIX Emulation: Break down the process into easy-to-follow steps.
