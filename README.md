@@ -26,8 +26,9 @@ This guide is a step-by-step walkthrough on setting up, running, and managing AI
 * 💿  IBM AIX installation ISO USB Version. Specifically, the version mentioned in the guide, *AIX_v7.2_Base_Install_7200-03-01-1838_USB_Flash_092018.iso*, or a compatible version.
 
 ## Important Links
-- To download qemu-system-ppc64 : https://www.qemu.org/docs/master/system/target-ppc.html
-- To get 
+* 🌐 To download qemu-system-ppc64 : [https://www.qemu.org/docs/master/system/target-ppc.html](click here)
+* 🌐 To download QEMU : [https://www.qemu.org/download/#windows](click here)
+* 📄 [Read this article](https://medium.com/@sbaiidrissiyoussef/how-and-where-to-download-ibm-aix-c62d7cbf09f6) to learn how to download AIX OS ISO *AIX_v7.2_Base_Install_7200-03-01-1838_USB_Flash_092018.iso*.
   
 ### Getting started
 --- 
