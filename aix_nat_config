@@ -1,0 +1,2 @@
+nat on en0 from ! (en0) to any -> (en0:0)
+pass from {lo0, 192.168.100.0/24} to any keep state
