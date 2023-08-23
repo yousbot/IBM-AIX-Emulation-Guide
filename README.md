@@ -18,14 +18,14 @@ Running IBM AIX on Intel Systems
 
 ## Requirements 
 ***Hardware***
-⚡️   Intel-based system with virtualization capabilities (VT-x/VT-d) enabled.
-🔍  RAM: A minimum of 8GB (16GB recommended).
-💾  At least 250GB of free disk space.
+* ⚡️   Intel-based system with virtualization capabilities (VT-x/VT-d) enabled.
+* 🔍  RAM: A minimum of 8GB (16GB recommended).
+* 💾  At least 250GB of free disk space.
 
 ***Software***
-🖥️  A host operating system that supports QEMU (e.g., Linux, Windows, or macOS) -- This guide was tested on Windows 10.
-🔧  QEMU software installed and configured on the host system.
-💿  IBM AIX installation ISO USB Version. Specifically, the version mentioned in the guide, *AIX_v7.2_Base_Install_7200-03-01-1838_USB_Flash_092018.iso*, or a compatible version.
+* 🖥️  A host operating system that supports QEMU (e.g., Linux, Windows, or macOS) -- This guide was tested on Windows 10.
+* 🔧  QEMU software installed and configured on the host system.
+* 💿  IBM AIX installation ISO USB Version. Specifically, the version mentioned in the guide, *AIX_v7.2_Base_Install_7200-03-01-1838_USB_Flash_092018.iso*, or a compatible version.
 
 ### Getting started
 --- 
